@@ -35,7 +35,6 @@ exports[`<Main /> should render the heading 1`] = `
 
 <main
   class="c0"
-  data-testid="main-container"
 >
   <img
     alt=" Imagem de um átomo e React Avançado escrito ao lado. "
@@ -58,4 +57,4 @@ exports[`<Main /> should render the heading 1`] = `
     src="/img/hero-illustration.svg"
   />
 </main>
-`;
+`

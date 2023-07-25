@@ -10,7 +10,7 @@ export const Wrapper = styled.main`
   flex-direction: column;
   text-align: center;
   align-items: center;
-  justify-center: center;
+  justify-content: center;
 `
 
 export const Logo = styled.img`

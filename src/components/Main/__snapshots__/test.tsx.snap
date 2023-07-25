@@ -11,7 +11,7 @@ exports[`<Main /> should render the heading 1`] = `
   flex-direction: column;
   text-align: center;
   align-items: center;
-  justify-center: center;
+  justify-content: center;
 }
 
 .c1 {

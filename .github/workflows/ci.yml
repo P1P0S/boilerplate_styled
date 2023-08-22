@@ -26,7 +26,7 @@ jobs:
         run: yarn build
 
       - name: Storybook
-        run: yarn storybook build
+        run: yarn build-storybook
 
   auto-merge-dependabot:
     name: 🤖 Dependabot

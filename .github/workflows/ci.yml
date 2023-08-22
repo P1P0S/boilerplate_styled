@@ -25,6 +25,9 @@ jobs:
       - name: Build
         run: yarn build
 
+      - name: Storybook
+        run: yarn storybook build
+
   auto-merge-dependabot:
     name: 🤖 Dependabot
     timeout-minutes: 10
